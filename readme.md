@@ -20,11 +20,12 @@
 
 **Codelab** is my personal exploration space.
 
-This is not just a showcase of projects, it’s my lab where I experiment, break things, learn concepts, and share what I discover.
+This is not just a showcase of projects, it’s my lab where I experiment, break things, learn concepts, build new ideas, and share what I discover.
 
 Here you’ll find:
 
-- **Code experiments** across backend, DevOps, AI/ML, Robotics, IOT/Hardware, systems, and beyond
+- **Code Experiments, Projects, and Short Notes** across Data Structure, Algorithm, System Desgin, Distributed System, Databse, Caches, Messaging & Communication Protocol, AI/ML, DevOps, Cloud, Observability & Monnitoring, Systems & OS Concepts, IOT, Hardware, Robotics, Computer security, and beyond.
+- **Inventions & Original Concepts** across new patterns, systems, and ideas that don’t yet exist.
 - **Blog posts** on Medium that explain the concepts behind the code
 - A wide range of topics, because computing is a big universe to explore
 
@@ -38,50 +39,77 @@ If you find an interesting project, configuration, subdirectory, component, file
 
 ## 📚 Categories
 
-### 1. Data Structures & Algorithms
+### 0000. Data Structures & Algorithms
 
 ---
 
-### 2. System Design & Distributed System
+### 0001. System Design & Distributed System
 
 ---
 
-### 3. Database & Caches
+### 0010. Database & Caches
 
 ---
 
-### 3. Messaging & Communication
+### 0011. Messaging & Communication
 
 ---
 
-### 3. AI/ML
+### 0100. AI/ML
 
 ---
 
-### 5. DevOps & Cloud
+### 0101. DevOps, Cloud, Observability & Monitoring
 
 ---
 
-### 6. Systems & OS Concepts
+### 0110. Systems & OS Concepts
 
 ---
 
-### 7. IoT & Hardware
+### 0111. IoT & Hardware
 
 ---
 
-### 8. Robotics
+### 1000. Robotics
 
 ---
 
-### 9. Code snippets
+### 1001. Computer Security
 
 ---
 
-### 10. Other Explorations
+### 1010. Code snippets & Short notes
+
+- Gist:
+  <a href="https://gist.github.com/mukailasam"> Click Me </a>
+
+---
+
+### 1011. Inventions & Original Concepts
+
+This is where my wild ideas live — the things I build when exploring new patterns or trying to create something that doesn’t yet exist.  
+Some of these start as sketches, others grow into real systems.
+
+#### **Notable Works:**
+
+-
+-
+-
+
+Every invention here begins with curiosity, goes through testing, and often leads me to new discoveries.
+
+> Note: These inventions are continuously evolving through experimentation, documentation, and real-world testing within the Codelab environment.
+
+### 1100. Other Explorations
 
 ---
 
 ## ✍🏽 Blog
 
+- Sam's Blog:
+  <a href="https://mukailasam.medium.com/lists"> Click Me </a>
+
 ## 🔗 Connect
+
+- Email: n33ds0n@gmail.com
